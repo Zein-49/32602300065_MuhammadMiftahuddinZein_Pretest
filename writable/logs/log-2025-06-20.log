@@ -1,0 +1,70 @@
+CRITICAL - 2025-06-20 08:41:05 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('mahasiswa_view', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(33): view('mahasiswa_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Mahasiswa->tampil()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\cobaxampp\\htdocs\\zein-pretestweb\\public\\index.php')
+CRITICAL - 2025-06-20 08:41:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('mahasiswa_view', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(33): view('mahasiswa_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Mahasiswa->tampil()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\cobaxampp\\htdocs\\zein-pretestweb\\public\\index.php')
+CRITICAL - 2025-06-20 08:41:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('mahasiswa_view', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(33): view('mahasiswa_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Mahasiswa->tampil()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\cobaxampp\\htdocs\\zein-pretestweb\\public\\index.php')
+CRITICAL - 2025-06-20 08:41:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('mahasiswa_view', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(33): view('mahasiswa_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Mahasiswa->tampil()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\cobaxampp\\htdocs\\zein-pretestweb\\public\\index.php')
+CRITICAL - 2025-06-20 08:43:30 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('mahasiswa_view', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(33): view('mahasiswa_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Mahasiswa->tampil()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\cobaxampp\\htdocs\\zein-pretestweb\\public\\index.php')
+CRITICAL - 2025-06-20 08:45:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('mahasiswa_view', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(33): view('mahasiswa_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Mahasiswa->tampil()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\cobaxampp\\htdocs\\zein-pretestweb\\public\\index.php')
+CRITICAL - 2025-06-20 08:45:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "mahasiswa_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('mahasiswa_view', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(33): view('mahasiswa_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(943): App\Controllers\Mahasiswa->tampil()
+ 5 SYSTEMPATH\CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\cobaxampp\\htdocs\\zein-pretestweb\\public\\index.php')
